@@ -1,1 +1,1 @@
-ignmentsAdvanced Python, Webscraping and AI/ML prjects ass 
+Advanced Python, Webscraping and AI/ML projects 
